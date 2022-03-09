@@ -1,5 +1,6 @@
 # Tikbot!
-[Brand](https://user-images.githubusercontent.com/48517965/157438891-96f452a9-ca20-4e68-b543-500e30f61bf3.jpg)
+![FLvM7peXoAk54SR](https://user-images.githubusercontent.com/48517965/157439601-d84ab2f4-ea47-47c2-8786-382103677a4e.jpg)
+
 
 ## Installation
 `npm i`
